@@ -1,0 +1,78 @@
+	Kiralık Villa:
+	1-)Elmas Konutları:
+                                 ------------
+			DAILY :  |   300 $   | 
+                                 ------------
+
+	Category :			Villa
+	Year :				2018
+	Oda Sayısı :			4+1 
+	---------------------------------------------
+	Banyo Sayısı: 			3
+	Metre Kare : 			280
+	Bina Yaşı : 			4
+	Kat Sayısı:			2
+	Havuz : 			Yok
+	---------------------------------------------
+	Payment Type : 			All
+	Kimden : 			Sahibinden
+	Garanti :			Yes 			
+
+	2-)Patin Konutları:
+                                 ------------
+			DAILY :  |   450 $   | 
+                                 ------------
+
+	Category :			Villa
+	Year :				2019
+	Oda Sayısı :			4+1 
+	---------------------------------------------
+	Banyo Sayısı: 			3
+	Metre Kare : 			320
+	Bina Yaşı : 			3
+	Kat Sayısı:			3
+	Havuz : 			Var
+	---------------------------------------------
+	Payment Type : 			All
+	Kimden : 			Sahibinden
+	Garanti :			Yes 			
+
+	3-)Fourb Konutları:
+                                 ------------
+			DAILY :  |   600 $   | 
+                                 ------------
+
+	Category :			Villa
+	Year :				2021
+	Oda Sayısı :			5+2
+	---------------------------------------------
+	Banyo Sayısı: 			3
+	Metre Kare : 			580
+	Bina Yaşı : 			1
+	Kat Sayısı:			4
+	Havuz : 			Var
+	Kapalı Havuz : 			Var
+	---------------------------------------------
+	Payment Type : 			All
+	Kimden : 			Sahibinden
+	Garanti :			Yes 
+
+	4-)Kömür Konutları:
+                                 ------------
+			DAILY :  |   650 $   | 
+                                 ------------
+
+	Category :			Villa
+	Year :				2021
+	Oda Sayısı :			6+1
+	---------------------------------------------
+	Banyo Sayısı: 			3
+	Metre Kare : 			680
+	Bina Yaşı : 			1
+	Kat Sayısı:			4
+	Havuz : 			Var
+	Kapalı Havuz : 			Var
+	---------------------------------------------
+	Payment Type : 			All
+	Kimden : 			Sahibinden
+	Garanti :			Yes Yes 			

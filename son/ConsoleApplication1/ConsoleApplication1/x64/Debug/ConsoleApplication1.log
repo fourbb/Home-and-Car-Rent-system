@@ -1,0 +1,8 @@
+﻿  Class.cpp
+  ConsoleApplication1.cpp
+D:\241 proje\son\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+D:\241 proje\son\ConsoleApplication1\ConsoleApplication1\Class.cpp(68): warning C4715: 'House::money': tüm denetim yolları değer döndürmez
+D:\241 proje\son\ConsoleApplication1\ConsoleApplication1\Class.cpp(83): warning C4715: 'konut': tüm denetim yolları değer döndürmez
+D:\241 proje\son\ConsoleApplication1\ConsoleApplication1\Class.cpp(42): warning C4715: 'Village::money': tüm denetim yolları değer döndürmez
+  ConsoleApplication1.vcxproj -> D:\241 proje\son\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

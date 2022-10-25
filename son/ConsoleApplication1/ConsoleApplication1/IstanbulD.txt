@@ -1,0 +1,72 @@
+	Kiralık Daireler:
+	1-)Gül Apartmanı:
+                                 ------------
+			DAILY :  |   155 $   | 
+                                 ------------
+
+	Category :			Home
+	Year :				2015
+	Oda Sayısı :			2+1 
+	---------------------------------------------
+	Banyo Sayısı: 			2
+	Metre Kare : 			130
+	Bina Yaşı : 			7
+	Bulunduğu kat : 		4
+	---------------------------------------------
+	Payment Type : 			All
+	Kimden : 			Sahibinden
+	Garanti :			Yes 			
+
+	2-)Oyak 1 Sitesi:
+                                 ------------
+			DAILY :  |   172 $   | 
+                                 ------------
+
+	Category :			Home
+	Year :				2005
+	Oda Sayısı :			3+1 
+	---------------------------------------------
+	Banyo Sayısı: 			2
+	Metre Kare : 			180
+	Bina Yaşı : 			7
+	Bulunduğu kat : 		2
+	---------------------------------------------
+	Payment Type : 			All
+	Kimden : 			Sahibinden
+	Garanti :			Yes 	
+
+	3-)Oyak 9 Sitesi:
+                                 ------------
+			DAILY :  |   195 $   | 
+                                 ------------
+
+	Category :			Home
+	Year :				2018
+	Oda Sayısı :			3+1
+	---------------------------------------------
+	Banyo Sayısı: 			3
+	Metre Kare : 			200
+	Bina Yaşı : 			4
+	Bulunduğu kat : 		8
+	---------------------------------------------
+	Payment Type : 			All
+	Kimden : 			Sahibinden
+	Garanti :			Yes 	
+
+	4-)Oyak 10 Sitesi:
+                                 ------------
+			DAILY :  |   250 $   | 
+                                 ------------
+
+	Category :			Home
+	Year :				2020
+	Oda Sayısı :			4+1 
+	---------------------------------------------
+	Banyo Sayısı: 			2
+	Metre Kare : 			320
+	Bina Yaşı : 			2
+	Bulunduğu kat : 		6
+	---------------------------------------------
+	Payment Type : 			All
+	Kimden : 			Sahibinden
+	Garanti :			Yes 			
